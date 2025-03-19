@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = 'TheFreeRangeTester-selenium-java'
-include('app')
+include('src')
